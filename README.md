@@ -18,6 +18,7 @@ This paper demonstrates the capacity of neural networks, specifically DeepONet, 
 
 The official implementation and related resources can be found on the authors’ GitHub repository:  
 🔗 [DeepONet GitHub](https://github.com/lululxvi/deeponet)
+
 ---
 
 ## Objectives
