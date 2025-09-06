@@ -9,8 +9,10 @@ Final project for the course **DEEP LEARNING** (A.Y. 2024–2025, Department of 
 The aim of this project is to analyze the ability of neural networks to approximate **nonlinear operators**, a fundamental problem in scientific machine learning.  
 In particular, we focus on **Deep Operator Networks (DeepONets)**, introduced by Lu *et al.* in their work:  
 
-> **Learning nonlinear operators via DeepONet based on the universal approximation theorem**  
-> [Lu, Jin, Pang, Zhang, Karniadakis (2019, arXiv:1910.03193)](https://arxiv.org/abs/1910.03193)
+> **Learning nonlinear operators via DeepONet**  
+> [Lu, Jin, Pang, Zhang, Karniadakis (2021, Nature Machine Intelligence)](https://www.nature.com/articles/s42256-021-00302-5)
+
+This paper demonstrates the capacity of neural networks, specifically DeepONet, to learn and approximate nonlinear operators, underpinned by the universal approximation theorem.  
 
 The official implementation and related resources can be found on the authors’ GitHub repository:  
 🔗 [DeepONet GitHub](https://github.com/lululxvi/deeponet)
