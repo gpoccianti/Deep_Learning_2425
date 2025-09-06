@@ -6,7 +6,7 @@ Final project for the course **DEEP LEARNING** (A.Y. 2024–2025, Department of 
 
 ## Project Overview
 
-![Unstacked DeepONet](deeponet_architecture.png)
+![Unstacked DeepONet](Notebooks/deeponet_architecture.png)
 
 The aim of this project is to analyze the ability of neural networks to approximate **nonlinear operators**, a fundamental problem in scientific machine learning.  
 In particular, we focus on **Deep Operator Networks (DeepONets)**, introduced by Lu *et al.* in their work:  
