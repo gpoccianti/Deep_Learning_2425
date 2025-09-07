@@ -1,6 +1,0 @@
-Collecting lxml
-  Using cached lxml-6.0.1-cp312-cp312-win_amd64.whl.metadata (3.9 kB)
-Downloading lxml-6.0.1-cp312-cp312-win_amd64.whl (4.0 MB)
-   ---------------------------------------- 4.0/4.0 MB 13.3 MB/s  0:00:00
-Installing collected packages: lxml
-Successfully installed lxml-6.0.1
