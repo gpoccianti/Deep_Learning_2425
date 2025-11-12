@@ -4,3 +4,4 @@ Notebooks\*.npz
 Notebooks/*.npz
 Notebooks/*.npz
 Notebooks/*.npz
+.DS_Store
